@@ -6,7 +6,8 @@
   background-size:cover;
   width:100vw;
   height: 50vh;
-  font-size: 500%;
+  font-size: 5vw;
+  font-weight: bold;
   font-family: 'Times New Roman';
   line-height: 50vh;
   color:black;

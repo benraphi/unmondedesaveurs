@@ -1,5 +1,5 @@
 <template>
-    <v-toolbar fixed color="#B71C1C">
+    <v-toolbar fixed color="#B71C1C" font-size="5vw">
         <v-toolbar-items>
             <v-btn flat dark
                 @click="navigateTo({name : 'home'})">
@@ -73,10 +73,7 @@
                 Cours de cuisine
             </v-btn>
             <v-btn flat dark
-                @click="navigateTo({name : 'contact'})">
-                Contact
-            </v-btn><v-btn flat dark
-                @click="navigateTo({name : 'home'})">
+                @click="navigateTo({name : 'photosprestations'})">
                 Liens photos prestations
             </v-btn>
             </v-toolbar-items>
@@ -94,9 +91,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-.liste{
-    color:"#8BC34A";
-}
-</style>

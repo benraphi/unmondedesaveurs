@@ -2,12 +2,11 @@
 .imgfond{
   margin:0;
   padding:0;
-  background: url("../../static/img/verrines.jpeg") no-repeat center fixed;
   background-size:cover;
   width:100vw;
-  height: 50vh;
+  height: 70vh;
   font-size: 500%;
-  font-family: 'Times New Roman';
+  font-family: 'Pacifico';
   line-height: 50vh;
   color:black;
   margin-bottom: 0.3em;
@@ -18,9 +17,7 @@ h2{
 </style>
 <template>
   <div>
-    <div class="imgfond">
-      <p>Barbecue Party</p>
-    </div>
+    <img src="../../static/img/barbecueparty.jpg" title="Un monde de saveurs" class="imgfond">
     <h2>35€ par personne.<br>
       Minimum 15 personnes. Prestation sur place et prêt de barbecue inclus.<br>
     </h2>
