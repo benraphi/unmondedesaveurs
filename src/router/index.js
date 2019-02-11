@@ -4,6 +4,7 @@ import VueRouter from 'vue-router'
 const routerOptions = [
   { path: '/', component: 'Home', name: 'home' },
   { path: '/receptions/barbecueparty', component: 'BarbecueParty', name: 'barbecueparty' },
+  { path: '/receptions/plancha', component: 'PlanchaParty', name: 'planchaparty' },
   { path: '/receptions/buffetfroid', component: 'BuffetFroid', name: 'buffetfroid' },
   { path: '/receptions/soireeatheme', component: 'SoireeTheme', name: 'soireeatheme' },
   { path: '/cocktails/cocktailsdinatoires', component: 'CocktailsDinatoires', name: 'cocktailsdinatoires' },

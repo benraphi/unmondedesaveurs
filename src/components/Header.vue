@@ -1,5 +1,5 @@
 <template>
-    <v-toolbar fixed color="#B71C1C">
+    <v-toolbar color="#B71C1C" fixed>
         <v-toolbar-items>
             <v-btn flat dark class="font-button1"
                 @click="navigateTo({name : 'home'})">
@@ -57,6 +57,10 @@
                     <v-list-tile style="color:white"
                     @click="navigateTo({name: 'barbecueparty'})">
                     <v-list-tile-title>Barbecue party</v-list-tile-title>
+                    </v-list-tile>
+                    <v-list-tile style="color:white"
+                    @click="navigateTo({name: 'planchaparty'})">
+                    <v-list-tile-title>Plancha Party</v-list-tile-title>
                     </v-list-tile>
                     <v-list-tile style="color:white"
                     @click="navigateTo({name: 'buffetfroid'})">
