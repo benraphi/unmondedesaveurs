@@ -49,11 +49,12 @@ h2{
       Salade de légumes verts, vinaigrette à la framboise.<br>
       Salade de tomates coktails et billes de mozzarella, vinaigrette olive balsamique.<br>
       Salade de pommes de terre à l'estragon et poitrine fumée.<br>
+      Salade Coleslaw à l'Emmental.<br>
     </p>
     <h2>Grillades de viandes :</h2>
     <p>
       Petit tournedos de filet de boeuf et lard.<br>
-      Brochette de porc et ananas au gingembre.<br>
+      Brochette de porc au chorizo et oignon rouge.<br>
       Brochette de dinde marinée aux épices.<br>
       Brochette d'agneau à l'ail et fines herbes.<br>
     </p>
@@ -63,6 +64,10 @@ h2{
       Brochette de Saint-Jacques et citron vert.<br>
       Brochette de thon aux graines de sésame.<br>
       Brochette de gambas et légumes.<br>
+    <h2>Fromage : (3€ supplémentaire par personne)</h2>
+    <p>Camembert.<br>
+    Maroiles.<br>
+    </p>
     <h2>Dessert :</h2>
     <p>
       <u>

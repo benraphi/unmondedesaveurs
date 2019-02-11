@@ -27,7 +27,8 @@ h2{
             Verrine de cappuccino d'avocat et crème de xéres. <br>
             Verrine de gaspacho de tomates et de crevettes parfumées à la coriandre.<br>
             Verrine de foie gras, confit d'oignons aux raisins, dés de pain d'épice.<br>
-            Verrine de salade de pennes aux tomates, olives et balsamique.<br>
+            Mini poêlon de panacotta de chèvre et tartare de tomates aux olives.<br>
+            Mini poêlon de panacotta de poivron doux et pétoncles poêlés aux pignons de pin.<br>
             Cuillère garnie tartare aux deux saumons, pomme verte.<br>
             Cuillère garnie granité d'ananas et gingembre, poulet grillé.<br>
             Muffin poitrine fumé et thym.<br>
@@ -39,18 +40,17 @@ h2{
         <p>
             Goyère au fromage des moines des trappistes et poireaux.<br>
             Brochette de gambas sauce aigre douce, gondole de riz cantonais.<br>
-            Brochette de porc au gingembre, gondole de riz cantonais.<br>
             Mini pomme de terre garnie au comté et à la pancetta.<br>
             Mini pomme de terre au poisson et parmesan.<br>
             Croustillant d'escargot à la saveurs des bois.<br>
             Croustillant de Saint-Jacques aux légumes épicés.<br>
             Pilons de poulet au miel et au soja.<br>
             Crumbble de chèvre et jambon cru à la fondue de tomates et courgettes.<br>
-            Crumbble de pétoncles à la fondue de tomates et courgettes.<br>
-            Cassolette de moules et poireaux au curry.<br>
+            Cassolette de crevettes et courgettes au lait de coco et curry.<br>
+            Cassolette de moules et poireaux sauce safranée.<br>
             Cassolette de poulet façon waterzoï.<br>
             Tajine de Keftas d'agneau parfumé à la coriandre.<br>
-            Tajine de Keftas de thon parfumé à la coriandre.<br><br>
+            Colombo de porc.<br>
         <h2>Desserts par personne (2 choix possibles ) : </h2>
         <p>
             Verrine de confit d'ananas, crème de mascarpone à la vanille et broyé de spéculoos.<br>
@@ -62,6 +62,7 @@ h2{
             Verrine de chti'ramisu (genièvre et spéculoos).<br>
             Verrine de mousseline de pain d'épice et pommes confites au miel.<br>
             Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
+            Verrine de mousse de carambars et compotée de pommes.<br>
             <br>
         </p>
         <p class="fin">

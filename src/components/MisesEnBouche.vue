@@ -63,6 +63,13 @@ h2{
       Fruit selon la saison & beurre de foie gras.<br>
       Hollande & crème de curry.<br>
     </p>
-    <h2>Poireaux frits</h2>
+    <h2>Mini poêlons :</h2>
+    <p>
+      Panacotta chèvre et tartare de tomates et olives.<br>
+      Panacotta de poivron doux et pétoncles poêlées.<br>
+      D'escargots au beurre anisé.<br>
+      Panacotta de foie gras, chutney d'abricots au gingembre.<br>
+      De poêlée de calamars au chorizo et légumes.<br>
+    </p>
   </div>
 </template>

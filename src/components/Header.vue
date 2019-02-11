@@ -1,5 +1,5 @@
 <template>
-    <v-toolbar color="#B71C1C" fixed>
+    <v-toolbar color="#B71C1C" fixed scroll-off-screen="true">
         <v-toolbar-items>
             <v-btn flat dark class="font-button1"
                 @click="navigateTo({name : 'home'})">
@@ -76,6 +76,7 @@
                 @click="navigateTo({name : 'courscuisine'})">
                 Cours de cuisine
             </v-btn>
+            <v-spacer></v-spacer>
             <v-btn flat dark class="font-button2"
                 @click="navigateTo({name : 'photosprestations'})">
                 Photos prestations

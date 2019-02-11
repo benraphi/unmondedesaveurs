@@ -44,7 +44,7 @@ h3{
       Pigeon aux deux cuissons sur crostini de foie gras .<br>
       Noisette de bœuf en croûte de poivre.<br>
       Mitonnée de veau aux écrevisses.<br>
-      Noisette d'agneau poêlé, sauce au lait de coco et curry.<br>
+      Noisette d'agneau poêlé, sauce miel et citron.<br>
       Filet de pintade farcie à la saveur des bois.<br>
       Pavé de thon en croûte de sésame, sauce aigre douce.<br>
       Dos de sandre rôti au saumur-champigny.<br>

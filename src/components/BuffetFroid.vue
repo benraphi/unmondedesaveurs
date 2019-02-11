@@ -59,7 +59,8 @@ h3{
       Verrine de foie gras, confiture d'oignons, dés de pain d'épice.<br>
       Verrine de cappuccino d'avocat et crème de xérès.<br>
       Verrine de gaspacho de tomates et crevettes parfumées à la coriandre.<br>
-      Verrine de salade de pennes aux tomates, olives et balsamique.<br>
+      Mini poêlon de panacota de chèvre et tartare de tomates aux olives.<br>
+      Mini poêlon de panacotta de poivron doux et pétoncles poêlés aux pignons de pin.<br>
       Cuillère garnie de granité d'ananas et gingembre, poulet grillé.<br>
       Cuillère garnie de tartare aux deux saumons et pomme verte.<br>
       Muffin poitrine fumée au thym.<br>
@@ -81,6 +82,7 @@ h3{
       Salade de pennes au gambas et pétoncles et petits légumes croquants, vinaigrette au balsamique.<br>
       Céleri rémoulade au curry, crevettes et dés de poulet.<br>
       Salade de légumes verts et magret fumé, vinaigrette à la framboise.<br>
+      Salade de Coleslaw à l'Emmental.<br>
     </p>
     <h2>Entrées :</h2>
     <p>
@@ -121,16 +123,16 @@ h3{
       Pyramide de profiteroles, glace spéculoos, sauce chocolat blanc.<br>
       Pyramide de profiteroles, glace vanille, sauce chocolat noir.<br>
       <u>Assortiment de verrines sucrées :<br></u>
-                  -Verrine de confit d'ananas, crème de mascarpone à la vanille et broyé de spéculoos.<br>
-                  -Verrine de mousse chocolat noir, craquant au chocolat blanc et griottes.<br>
-                  -Verrine de mousse chocolat blanc, craquant au chocolat noir et griottes.<br>
-                  -Verrine de minestrone de fruits au sirop épicé.<br>
-                  -Verrine de mousse de fromage blanc, coulis de fruits rouges, groseilles.<br>
-                  -Verrine de Tiramisu.<br>
-                  -Verrine de chti'ramisu (genièvre et spéculoos).<br>
-                  -Verrine de mousseline de pain d'épice et pommes confites au miel.<br>
-                  -Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
-                  -Verrine de mousse de carambars et compotée de légumes.<br>
+      Verrine de confit d'ananas, crème de mascarpone à la vanille et broyé de spéculoos.<br>
+      Verrine de mousse chocolat noir, craquant au chocolat blanc et griottes.<br>
+      Verrine de mousse chocolat blanc, craquant au chocolat noir et griottes.<br>
+      Verrine de minestrone de fruits au sirop épicé.<br>
+      Verrine de mousse de fromage blanc, coulis de fruits rouges, groseilles.<br>
+      Verrine de Tiramisu.<br>
+      Verrine de chti'ramisu (genièvre et spéculoos).<br>
+      Verrine de mousseline de pain d'épice et pommes confites au miel.<br>
+      Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
+      Verrine de mousse de carambars et compotée de légumes.<br>
     </p>
   </div>
 </template>
