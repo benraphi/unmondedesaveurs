@@ -2,11 +2,12 @@
 .imgfond{
   margin:0;
   padding:0;
-  background: url("../../static/img/verrines.jpeg") no-repeat center fixed;
+  background: url("../../static/img/pages/Cours.jpg") no-repeat center fixed;
   background-size:cover;
   width:100vw;
   height: 50vh;
-  font-size: 500%;
+  font-size: 5vw;
+  font-weight: bold;
   font-family: 'Times New Roman';
   line-height: 50vh;
   color:black;
