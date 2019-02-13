@@ -22,7 +22,7 @@
 .imgfond{
   margin:0;
   padding:0;
-  background: url("../../static/img/ImageFond.jpg") no-repeat center fixed;
+  background: url("../../static/img/ImageFond2.jpg") no-repeat center fixed;
   background-size:cover;
   width:100vw;
   height: 50vh;
