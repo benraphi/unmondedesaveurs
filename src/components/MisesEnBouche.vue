@@ -45,10 +45,10 @@ h2{
       Tomates confites, mozzarella & jambon cru.<br>
       Crevette bouquet mariné, orange & avocat.<br>
       Pétoncles, magret fumé & ananas.<br>
-      Artichaut, saumon grillé & fêta.<br>
-      Poulet, chèvre & pomme verte.<br>
+      Poulet paprika, gouda & pomme verte.<br>
+      Crevette curry, ananas & mimolette.<br>
     </p>
-    <h2>Minis-cakes ou Muffins salés :</h2>
+    <h2>Muffins salés :</h2>
     <p>
       Saumon fumé & basilic.<br>
       Poitrine fumé & thym.<br>
@@ -66,11 +66,11 @@ h2{
     </p>
     <h2>Mini poêlons :</h2>
     <p>
-      Panacotta chèvre et tartare de tomates et olives.<br>
-      Panacotta de poivron doux et pétoncles poêlées.<br>
-      D'escargots au beurre anisé.<br>
-      Panacotta de foie gras, chutney d'abricots au gingembre.<br>
-      De poêlée de calamars au chorizo et légumes.<br>
+      Mini poêlon de panacotta chèvre et tartare de tomates et olives.<br>
+      Mini poêlon de panacotta de poivron doux et pétoncles poêlées.<br>
+      Mini poêlon d'escargots au beurre anisé.<br>
+      Mini poêlon de panacotta de foie gras, chutney d'abricots au gingembre.<br>
+      Mini poêlon de poêlée de calamars au chorizo et légumes.<br>
     </p>
   </div>
 </template>

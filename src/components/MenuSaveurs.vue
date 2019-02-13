@@ -32,15 +32,15 @@ h3{
       Salade de légumes verts croquants aux gambas et magret de canard fumé, vinaigrette à la framboise.<br>
       Croustillant d'escargots sur tombée d'épinards, crème d'ail douce.<br>
       Foie gras de canard, confiture d’échalotte à la violette, toast brioché.<br>
-      Escalope de foie gras poêlé sur brioche perdue et pommes acildulées.<br>
+      Escalope de foie gras poêlé sur brioche perdue et pommes acidulées.<br>
       Lasagne de Saint-Jacques au pistou de fines herbes.<br>
-      Carpaccio de thon, mini ratatouille à la vinaigrette de basilic, tuile de parmesan.<br>
+      Tartare de dorade et crevettes au gingembre et coriandre, carpaccio de légumes.<br>
       Porte-monnaie de la mer aux deux coulis.<br>
-      Feuillantine de saumon fumé, crème de ciboulette au xéres.<br>
+      Œuf poché au saumon fumé, mouillettes aux céréales.<br>
     </p>
     <h3>Plat :</h3>
     <p>
-      Médaillon de porc au lard, sauce au cidre.<br>
+      Médaillon de porc au lard à l’orange.<br>
       Gigolette de canard au romarin, sauce cassis.<br>
       Pigeon aux deux cuissons sur crostini de foie gras .<br>
       Noisette de bœuf en croûte de poivre.<br>

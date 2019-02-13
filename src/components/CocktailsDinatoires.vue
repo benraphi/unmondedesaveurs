@@ -37,10 +37,11 @@ h2{
             Mini brochette de tomates confites, mozzarella et jambon cru.<br>
             Mini brochette pommes, gouda et poulet paprika. <br><br>
         </p>
-        <h2>Plats dînatoires chauds (5 choix possibles) :</h2>
+        <h2>Plats dînatoires chauds (4 choix possibles) :</h2>
         <p>
             Goyère au fromage des moines des trappistes et poireaux.<br>
             Brochette de gambas sauce aigre douce, gondole de riz cantonais.<br>
+            Mini welsh.<br>
             Mini pomme de terre garnie au comté et à la pancetta.<br>
             Mini pomme de terre au poisson et parmesan.<br>
             Croustillant d'escargot à la saveurs des bois.<br>
@@ -63,7 +64,7 @@ h2{
             Verrine de chti'ramisu (genièvre et spéculoos).<br>
             Verrine de mousseline de pain d'épice et pommes confites au miel.<br>
             Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
-            Verrine de mousse de carambars et compotée de pommes.<br>
+            Verrine de carambars et compotée de pommes.<br>
             <br>
         </p>
         <p class="fin">

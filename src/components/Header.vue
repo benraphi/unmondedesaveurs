@@ -14,7 +14,7 @@
                 <v-list dense class="red darken-4">
                     <v-list-tile style="color:white"
                     @click="navigateTo({name: 'cocktailsdinatoires'})">
-                    <v-list-tile-title>Cocktails dinatoires</v-list-tile-title>
+                    <v-list-tile-title>Cocktail dinatoire</v-list-tile-title>
                     </v-list-tile>
                     <v-list-tile style="color:white"
                     @click="navigateTo({name: 'misesenbouche'})">

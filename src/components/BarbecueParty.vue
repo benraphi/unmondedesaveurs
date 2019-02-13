@@ -25,12 +25,13 @@ h2{
     <h2>35€ par personne.<br>
       Minimum 15 personnes. Prestation sur place et prêt de barbecue inclus.<br>
     </h2>
-    <h2>Mises en bouche (6 mises en bouche par personne) :</h2>
+    <h2>Mises en bouche (5 mises en bouche par personne) :</h2>
     <p>
       Verrine de cappuccino d'avocat, crème de xérès.<br>
       Verrine de gaspacho de tomates et crevettes parfumées à la coriandre.<br>
       Verrine de foie gras, confits d'oignons aux raisins, dés de pain d'épice.<br>
-      Verrine de salade de pennes aux tomates, olives et balsamique.<br>
+      Mini poêlon de panacotta de chèvre et tartare de tomates aux olives.<br>
+      Mini poêlon de panacotta de poivron doux et pétoncles poêlées aux pignons de pins.<br>
       Cuillère garnie tartare aux deux saumons, pomme verte.<br>
       Cuillère garnie granité d'ananas et gingembre, poulet grillé.<br>
       Muffin poitrine fumée et thym.<br>
