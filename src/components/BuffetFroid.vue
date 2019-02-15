@@ -132,7 +132,7 @@ h3{
       Verrine de chti'ramisu (genièvre et spéculoos).<br>
       Verrine de mousseline de pain d'épice et pommes confites au miel.<br>
       Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
-      Verrine de mousse de carambars et compotée de légumes.<br>
+      Verrine de carambar et compotée de pommes.<br>
     </p>
   </div>
 </template>

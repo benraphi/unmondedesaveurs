@@ -5,7 +5,7 @@
     </div>
     <div class="body">
       <p>
-        Chef de cuisine renommé durant 15 ans au restaurant Alcide à Lille,Christophe Bonvalet vous emmène dans un monde de saveurs.<br>
+        Chef de cuisine renommé durant 15 ans au restaurant Alcide à Lille, Christophe Bonvalet vous emmène dans un monde de saveurs.<br>
         Laissez vous tenter par la venue à domicile de ce chef qui harmonise au fil des saisons plaisirs gustatifs et raffinement.<br>
         De dîners entre convives aux évènements exceptionnels ou professionnels, Christophe Bonvalet vous étonnera par la fraîcheur et l’originalité de ses produits.
       </p>

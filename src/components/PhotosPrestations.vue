@@ -27,7 +27,7 @@
       <h1 align-center>{{this.header}}</h1>
       <v-gallery :images="getCurrentList" :caption="true">
       </v-gallery>
-      <v-btn color="green" @click="setGallery" align-center>Retour à la gallerie</v-btn>
+      <v-btn color="green" @click="setGallery" align-center>Retour à la galerie</v-btn>
     </v-container>
   </div>
 </template>

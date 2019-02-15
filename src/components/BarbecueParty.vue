@@ -71,7 +71,7 @@ h2{
       Brochette de gambas et légumes.<br>
     <h2>Fromage : (3€ supplémentaire par personne)</h2>
     <p>Camembert.<br>
-    Maroiles.<br>
+    Maroilles.<br>
     </p>
     <h2>Dessert :</h2>
     <p>
