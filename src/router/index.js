@@ -29,5 +29,6 @@ const routes = routerOptions.map(route => {
 Vue.use(VueRouter)
 
 export default new VueRouter({
-  routes
+  routes,
+  mode: 'history'
 })
