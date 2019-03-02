@@ -22,6 +22,7 @@ h2{
     <div class="imgfond">
       <p>Plancha party</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h2>35€ par personne.<br>
       Minimum 15 personnes. Prestation sur place et prêt de plancha inclus.<br>
     </h2>
@@ -95,5 +96,6 @@ h2{
     <p class="fin">
       Un forfait de déplacement sera demandé pour une distance supérieur à 30 kms de mon domicile.
     </p>
+    </div>
   </div>
 </template>

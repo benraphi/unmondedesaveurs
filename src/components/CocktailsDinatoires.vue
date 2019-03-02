@@ -22,6 +22,7 @@ h2{
         <div class="imgfond">
             <p>Cocktail dînatoire</p>
         </div>
+        <div style="text-align:left;padding-left:20vw">
         <h2>30€ par personne.<br>Minimum 15 personnes. Prestation sur place incluse.</h2>
         <h2>Mises en bouche par personne (6 choix possibles) :</h2>
         <p>
@@ -71,5 +72,6 @@ h2{
             Ce cocktail sera réalisé dans votre cuisine, soigneusement nettoyée et rangée par mes soins après le service.<br>
             Un forfait de déplacement sera demandé pour une distance supérieure à 30 kms de mon domicile.
         </p>
+        </div>
     </div>
 </template>

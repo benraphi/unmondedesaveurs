@@ -22,6 +22,7 @@ h2{
     <div class="imgfond">
       <p>Mises en bouche</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h2>8€ les 6 pièces.</h2>
     <p>Pour un apéritif original, les mises en bouche sont livrées sans supplément. <br></p>
     <h2>Verrines :</h2>
@@ -72,5 +73,6 @@ h2{
       Mini poêlon de panacotta de foie gras, chutney d'abricots au gingembre.<br>
       Mini poêlon de poêlée de calamars au chorizo et légumes.<br>
     </p>
+    </div>
   </div>
 </template>

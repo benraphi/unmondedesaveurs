@@ -22,6 +22,7 @@ h2{
     <div class="imgfond">
       <p>Menu selon vos envies</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <p>Prix du menu en fonction des produits choisis. Devis gratuit.<br></p>
     <h2>Menu d'après votre cave à vin</h2>
     <p>Prix du menu en fonction des produits choisis. Devis gratuit.<br><br></p>
@@ -29,5 +30,6 @@ h2{
       Ce menu sera réalisé dans votre cuisine, soigneusement nettoyée et rangée par mes soins après le service.<br><br>
       Un forfait de déplacement sera demandé pour une distance supérieure à 30 Kms de mon domicile.<br>
     </p>
+    </div>
   </div>
 </template>

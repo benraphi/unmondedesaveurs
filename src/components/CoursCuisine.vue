@@ -22,6 +22,7 @@ h2{
     <div class="imgfond">
       <p>Cours de cuisine pour adultes</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <p>Possibilité de cours de cuisine à domicile entre amis suivi du repas, le midi ou le soir.</p>
     <p><br><u>Un cadeau d'anniversaire original :</u> offrez le PACK anniversaire : 2 cours adultes à domicile pour 150€ avec la possibilité d'inviter des convives au repas (30€ par personne). Le cours comprend une recette autour d'une entrée, d'un plat et d'un dessert sur le thème de votre choix. Le chef restera, en plus, sur place, pour vous servir.</p>
     <p><u>Formule à 35€</u> par personne pour une prestation autour d'une recette unique, selon un thème choisi . Minimum 4 personnes.</p>
@@ -31,5 +32,6 @@ h2{
     <p><u>Formule à 60€</u> par personne pour une prestation autour d' une entrée, d'un plat et d'un dessert . Minimum 3 personnes. Supplément de 30€ par invité au repas. Ensuite, le chef de cuisine restera sur place pour vous servir.</p>
     <p>Pour chaque formule, nous fournissons les ingrédients et prêtons le tablier. Un supplément peut être demandé si les thèmes abordés concernent des produits nobles tels le foie gras, les noix de saint-Jacques...</p>
     <p class = "fin">Un forfait de déplacement sera demandé pour une distance supérieur à 30 kms de mon domicile.</p>
+    </div>
   </div>
 </template>

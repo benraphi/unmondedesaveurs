@@ -22,6 +22,7 @@ h2{
     <div class="imgfond">
       <p>Repas dinatoîre</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h2>15€ par personne.</h2>
     <h2>Le repas dînatoire est livré sans supplément</h2>
     <p>
@@ -55,5 +56,6 @@ h2{
       Moelleux au chocolat.<br>
       Eclair café, chocolat ou vanille.<br>
     </p>
+  </div>
   </div>
 </template>

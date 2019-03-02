@@ -25,6 +25,7 @@ h3{
     <div class="imgfond">
       <p>Menu saveurs</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h2>45€ par personne</h2>
     <h3>Mises en bouche.</h3>
     <h3>Entrée :</h3>
@@ -71,5 +72,6 @@ h3{
       Ce menu sera réalisé dans votre cuisine, soigneusement nettoyée et rangée par mes soins après le service.<br><br>
       Un forfait de déplacement sera demandé pour une distance supérieure à 30 Kms de mon domicile.<br>
     </p>
+    </div>
   </div>
 </template>

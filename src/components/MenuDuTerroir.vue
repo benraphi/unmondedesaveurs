@@ -22,6 +22,7 @@ h2{
     <div class="imgfond">
       <p>Menu du terroir</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h2>35€ par personne.<br></h2>
     <h3>Mises en bouche</h3>
     <h3><br>Entrée :</h3>
@@ -63,5 +64,6 @@ h2{
     <p>
       Assiette de fromage affiné et son mesclun, vinaigrette à la noisette ; supplément de 5 euros.
     </p>
+    </div>
   </div>
 </template>

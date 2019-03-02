@@ -26,6 +26,7 @@ h1{
     <div class="imgfond">
       <p>Soirées à thèmes</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h2>Menu à 25€ par personne.<br>
     Minimum 15 personnes
     </h2>
@@ -108,5 +109,6 @@ h1{
     Forêt noire<br>
     Gâteau au fromage blanc.<br></p>
     <p class="devis">Devis gratuit sur demande. Le plat unique peut être livré, sans supplément.</p>
+    </div>
   </div>
 </template>

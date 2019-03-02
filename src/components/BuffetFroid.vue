@@ -25,6 +25,7 @@ h3{
     <div class="imgfond">
       <p>Buffet froid</p>
     </div>
+    <div style="text-align:left;padding-left:20vw">
     <h3>Buffet à 25€ :</h3>
     <p>
       3 mises en bouche<br>
@@ -134,5 +135,6 @@ h3{
       Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
       Verrine de carambar et compotée de pommes.<br>
     </p>
+    </div>
   </div>
 </template>
