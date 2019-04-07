@@ -29,7 +29,6 @@
             <v-menu offset-y open-on-hover>
                 <v-btn
                         slot="activator"
-                        @click="navigateTo({name: 'menuterroir'})"
                         flat dark class="font-button1">
                         Menus
                 </v-btn>
