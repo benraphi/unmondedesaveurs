@@ -16,6 +16,7 @@ const routerOptions = [
   { path: '/menu/envie', component: 'MenuEnvie', name: 'menuenvie' },
   { path: '/menu/saveurs', component: 'MenuSaveurs', name: 'menusaveurs' },
   { path: '/photosprestation', component: 'PhotosPrestations', name: 'photosprestations' },
+  { path: '/cocktails/cocktailschaudsfroidssucres', component: 'CocktailsChaudsFroidsSucres', name: 'cocktailschaudsfroidssucres' },
   { path: '*', component: 'NotFound' }
 ]
 const routes = routerOptions.map(route => {

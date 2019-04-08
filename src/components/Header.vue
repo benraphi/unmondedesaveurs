@@ -21,8 +21,8 @@
                     <v-list-tile-title>Mises en bouche</v-list-tile-title>
                     </v-list-tile>
                     <v-list-tile style="color:white"
-                    @click="navigateTo({name: 'repasdinatoire'})">
-                    <v-list-tile-title>Repas dînatoire</v-list-tile-title>
+                    @click="navigateTo({name: 'cocktailschaudsfroidssucres'})">
+                    <v-list-tile-title>Cocktails chauds/froids/sucrés</v-list-tile-title>
                     </v-list-tile>
                     </v-list>
             </v-menu>
