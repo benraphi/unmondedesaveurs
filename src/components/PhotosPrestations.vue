@@ -11,7 +11,7 @@
         <v-layout row wrap>
           <v-flex v-for="item in headers" :key="item" xs3>
             <v-card>
-              <img :src="item.url" class="image" alt="lorem" width="100%" height="100%">
+              <img :src="item.url" class="image" alt="lorem" width="20vw" height="20vh">
               <v-card-title primary-title>
                 <h3 class="headline mb-0">{{item.title}}</h3>
               </v-card-title>
@@ -56,7 +56,8 @@ export default {
         {title: 'Soirée', url: '../../static/img/accueil/14.jpg', numero: 13},
         {title: 'Un monde de saveurs', url: '../../static/img/accueil/15.JPG', numero: 14},
         {title: 'Un monde de saveurs en 2012', url: '../../static/img/accueil/16.JPG', numero: 15},
-        {title: 'Une prestation', url: '../../static/img/accueil/17.jpg', numero: 16}
+        {title: 'Une prestation', url: '../../static/img/accueil/17.jpg', numero: 16},
+        {title: 'Fête Maryvonne', url: '../../static/img/accueil/18.jpg', numero: 17}
       ],
       list: [[
         {title: '1', url: '../../static/img/50 ans de mariage de Mr et Mme Delos 2013/1.jpg'},
@@ -192,7 +193,16 @@ export default {
         {title: '4', url: '../../static/img/Une prestation/4.JPG'},
         {title: '5', url: '../../static/img/Une prestation/5.JPG'},
         {title: '6', url: '../../static/img/Une prestation/6.JPG'}
-      ]
+      ],
+        {title: '1', url: '../../static/img/Fête Maryvonne/Fête Maryvonne1.JPG'},
+        {title: '2', url: '../../static/img/Fête Maryvonne/Fête Maryvonne2.JPG'},
+        {title: '3', url: '../../static/img/Fête Maryvonne/Fête Maryvonne3.JPG'},
+        {title: '4', url: '../../static/img/Fête Maryvonne/Fête Maryvonne4.JPG'},
+        {title: '5', url: '../../static/img/Fête Maryvonne/Fête Maryvonne5.JPG'},
+        {title: '6', url: '../../static/img/Fête Maryvonne/Fête Maryvonne6.JPG'},
+        {title: '7', url: '../../static/img/Fête Maryvonne/Fête Maryvonne7.JPG'},
+        {title: '8', url: '../../static/img/Fête Maryvonne/Fête Maryvonne8.JPG'},
+        {title: '9', url: '../../static/img/Fête Maryvonne/Fête Maryvonne9.JPG'},
       ]
     }
   },
