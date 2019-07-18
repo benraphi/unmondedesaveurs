@@ -88,8 +88,7 @@
         <v-toolbar color="red" fixed v-if="isMobile">
             <v-toolbar-side-icon color="white" @click="drawer=!drawer"></v-toolbar-side-icon>
         </v-toolbar>
-
-        <v-navigation-drawer absolute temporary v-model="drawer" dark>
+        <v-navigation-drawer temporary app v-model="drawer" dark>
             <v-list>
                 <v-list-tile> 
                     <v-btn flat dark class="font-button1"
@@ -177,12 +176,11 @@
                     </v-btn>
                 </v-list-tile>
                 <v-list-tile>
-                     <v-btn flat dark class="font-button2"
+                    <v-btn flat dark class="font-button2"
                     @click="navigateTo({name : 'photosprestations'})">
                     Photos prestations
                     </v-btn>
                 </v-list-tile>
-               
             </v-list>
         </v-navigation-drawer>
     </div>
