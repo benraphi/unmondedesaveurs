@@ -11,9 +11,9 @@
         <v-layout row wrap>
           <v-flex v-for="item in headers" :key="item" xs3> 
             <v-card>
-              <img :src="item.url" class="image" alt="lorem" width="100%" height="100%" style="cursor: pointer" @click="changeList(item.numero)">
-              <v-card-title primary-title>
-                <h3 class="text-md-center mb-0 ">{{item.title}}</h3>
+              <img :src="item.url" class="image" width="80%" height="100%" style="cursor: pointer" @click="changeList(item.numero)">
+              <v-card-title primary-title class="text-xs-center">
+                <h3 style="font-size: 1.5vw">{{item.title}}</h3>
               </v-card-title>
               <v-spacer></v-spacer>
             </v-card>
@@ -44,9 +44,9 @@ export default {
         {title: 'Barbecue party mai 2014', url: '../../static/img/accueil/3.jpg', numero: 2},
         {title: 'Buffet de dessert', url: '../../static/img/accueil/4.JPG', numero: 3},
         {title: 'Chez Caroline et Marc Deledalle', url: '../../static/img/accueil/5.jpg', numero: 4},
-        {title: 'Cours de cuisine à domicile chez Mlle Mourait', url: '../../static/img/accueil/6.jpg', numero: 5},
+        {title: 'Cours de cuisine chez Mlle Mourait', url: '../../static/img/accueil/6.jpg', numero: 5},
         {title: 'Cours de cuisine chez Mme Sobry', url: '../../static/img/accueil/7.JPG', numero: 6},
-        {title: 'Cours de cuisine chez Mr et Mme Varrasse-Vannesche', url: '../../static/img/accueil/8.JPG', numero: 7},
+        {title: 'Cours de cuisine chez Mr Varrasse-Vannesche', url: '../../static/img/accueil/8.JPG', numero: 7},
         {title: 'Cours de cuisine chez Vanessa et Aurélien', url: '../../static/img/accueil/9.JPG', numero: 8},
         {title: 'Cours de cuisine entre amis à domicile', url: '../../static/img/accueil/10.jpg', numero: 9},
         {title: 'Cours de cuisine pour enfants', url: '../../static/img/accueil/11.JPG', numero: 10},
@@ -202,7 +202,8 @@ export default {
         {title: '6', url: '../../static/img/Fête Maryvonne/Fête Maryvonne6.jpg'},
         {title: '7', url: '../../static/img/Fête Maryvonne/Fête Maryvonne7.jpg'},
         {title: '8', url: '../../static/img/Fête Maryvonne/Fête Maryvonne8.jpg'},
-        {title: '9', url: '../../static/img/Fête Maryvonne/Fête Maryvonne9.jpg'}
+        {title: '9', url: '../../static/img/Fête Maryvonne/Fête Maryvonne9.jpg'},
+        {title: '10', url: '../../static/img/Fête Maryvonne/Fête Maryvonne10.jpg'}
       ]
   ]}
   },

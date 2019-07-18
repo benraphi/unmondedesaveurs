@@ -249,7 +249,7 @@ export default {
       this.$router.push(route)
     },
     onResize() {
-        this.isMobile = window.innerWidth <600;
+        this.isMobile = window.innerWidth < 800;
     }
 
   }
