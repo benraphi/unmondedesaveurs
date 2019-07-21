@@ -90,14 +90,14 @@
         </v-toolbar>
         <v-navigation-drawer temporary app v-model="drawer" dark>
             <v-list>
-                <v-list-tile> 
+                <v-list-tile>
                     <v-btn flat dark class="font-button1"
                         @click="navigateTo({name : 'home'})">
                         Accueil
                     </v-btn>
                 </v-list-tile>
                 <v-list-tile>
-                    <v-menu offset-x> 
+                    <v-menu offset-x>
                         <v-btn
                                 slot="activator"
                                 flat dark class="font-button1">
@@ -189,78 +189,27 @@
 <script>
 export default {
   data: () => ({
-      isMobile: false,
-      drawer: false,
-      cocktails: [
-          {
-              name: 'Cocktail dinatoire',
-              path: 'cocktailsdinatoires'
-          },
-          {
-              name: 'Mises en bouche',
-              path: 'misesenbouche'
-          },
-          {
-              name: 'Cocktails chauds/froids/sucrés',
-              path: 'cocktailschaudsfroidssucres'
-          }
-      ],
-      menus: [
-          {
-              name:'Menu du terroir',
-              path: 'menuterroir'
-          },
-          {
-              name: 'Menu saveurs',
-              path: 'menusaveurs'
-          },
-          {
-              name: 'Menu selon vos envies',
-              path: 'menuenvie'
-          }
-      ],
-      receptions: [
-          {
-              name: 'Barbecue party',
-              path: 'barbecueparty'
-          },
-          {
-              name: 'Plancha party',
-              path: 'planchaparty'
-          },
-          {
-              name:'Buffet froid',
-              path: 'buffetfroid'
-          },
-          {
-              name: 'Soirées à thème',
-              path: 'soireeatheme'
-          }
-      ]
+    isMobile: false,
+    drawer: false
   }),
-
   mounted () {
     this.onResize()
     window.addEventListener('resize', this.onResize, { passive: true })
   },
-
   methods: {
     navigateTo (route) {
       this.$router.push(route)
     },
-    onResize() {
-        if (window.innerWidth < 800) {
-            this.isMobile = true;
-        }
-        else if (window.innerWidth>=800 && this.drawer===true) {
-            this.drawer = false;
-            this.isMobile = false;
-        }
+    onResize () {
+      if (window.innerWidth < 800) {
+        this.isMobile = true
+      } else if (window.innerWidth >= 800 && this.drawer === true) {
+        this.drawer = false
+        this.isMobile = false
+      }
     }
-
   }
 }
 </script>
 <style scoped>
-    
 </style>
