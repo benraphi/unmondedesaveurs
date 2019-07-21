@@ -97,7 +97,7 @@
                     </v-btn>
                 </v-list-tile>
                 <v-list-tile>
-                    <v-menu offset-y>
+                    <v-menu offset-x> 
                         <v-btn
                                 slot="activator"
                                 flat dark class="font-button1">
@@ -120,7 +120,7 @@
                     </v-menu>
                 </v-list-tile>
                 <v-list-tile>
-                    <v-menu offset-y>
+                    <v-menu offset-x>
                         <v-btn
                                 slot="activator"
                                 flat dark class="font-button1">
@@ -143,7 +143,7 @@
                     </v-menu>
                 </v-list-tile>
                 <v-list-tile>
-                    <v-menu offset-y>
+                    <v-menu offset-x>
                         <v-btn
                                 slot="activator"
                                 flat dark class="font-button1">
@@ -249,7 +249,13 @@ export default {
       this.$router.push(route)
     },
     onResize() {
-        this.isMobile = window.innerWidth < 800;
+        if (window.innerWidth < 800) {
+            this.isMobile = true;
+        }
+        else if (window.innerWidth>=800 && this.drawer===true) {
+            this.drawer = false;
+            this.isMobile = false;
+        }
     }
 
   }
