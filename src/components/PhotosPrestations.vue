@@ -55,7 +55,9 @@ export default {
         { title: 'Un monde de saveurs', url: '../../static/img/accueil/15.JPG', numero: 14 },
         { title: 'Un monde de saveurs en 2012', url: '../../static/img/accueil/16.JPG', numero: 15 },
         { title: 'Une prestation', url: '../../static/img/accueil/17.jpg', numero: 16 },
-        { title: 'Fête de Maryvonne', url: '../../static/img/accueil/18.jpg', numero: 17 }
+        { title: 'Fête de Maryvonne', url: '../../static/img/accueil/18.jpg', numero: 17 },
+        { title: 'Anniversaire de René 60 ans', url :'../../static/img/accueil/19.jpg', numero: 18 },
+        { title: 'Cochon grillé', url :'../../static/img/accueil/20.jpg', numero: 19 },
       ],
       list: [[
         { title: '1', url: '../../static/img/50 ans de mariage de Mr et Mme Delos 2013/1.jpg' },
@@ -203,6 +205,19 @@ export default {
         { title: '8', url: '../../static/img/Fête Maryvonne/Fête Maryvonne8.jpg' },
         { title: '9', url: '../../static/img/Fête Maryvonne/Fête Maryvonne9.jpg' },
         { title: '10', url: '../../static/img/Fête Maryvonne/Fête Maryvonne10.jpg' }
+      ],
+      [
+        { title: '1', url: '../../static/img/anniversaire rené 60 ans/1.jpg' },
+        { title: 'Apéritif', url: '../../static/img/anniversaire rené 60 ans/Apéritif.jpg' },
+        { title: 'Brochettes salées apéritif', url: '../../static/img/anniversaire rené 60 ans/Brochettes salées apéritif.jpg' },
+        { title: 'Croustillant aux 3 chocolats', url: '../../static/img/anniversaire rené 60 ans/Croustillant aux 3 chocolats.jpg' },
+        { title: 'Pièce montée de profiteroles', url: '../../static/img/anniversaire rené 60 ans/Pièce montée de profiteroles.jpg' },
+      ],
+      [
+        { title: '1', url: '../../static/img/cochon grillé/cochon grillé 1.jpg' },
+        { title: '2', url: '../../static/img/cochon grillé/cochon grillé 2.jpg' },
+        { title: '3', url: '../../static/img/cochon grillé/cochon grillé 3.jpg' },
+        { title: '4', url: '../../static/img/cochon grillé/cochon grillé 4.jpg' },
       ]
       ] }
   },
