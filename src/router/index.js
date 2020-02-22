@@ -12,6 +12,7 @@ const routerOptions = [
   { path: '/cocktails/repasdinatoire', component: 'RepasDinatoire', name: 'repasdinatoire' },
   { path: '/contact', component: 'Contact', name: 'contact' },
   { path: '/courscuisine', component: 'CoursCuisine', name: 'courscuisine' },
+  { path: '/rotisserie', component: 'Rotisserie', name: 'rotisserie' },
   { path: '/menu/terroir', component: 'MenuDuTerroir', name: 'menuterroir' },
   { path: '/menu/envie', component: 'MenuEnvie', name: 'menuenvie' },
   { path: '/menu/saveurs', component: 'MenuSaveurs', name: 'menusaveurs' },

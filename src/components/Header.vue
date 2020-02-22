@@ -78,6 +78,11 @@
                     Cours de cuisine
                 </v-btn>
                 <v-spacer></v-spacer>
+                <v-btn flat dark class="font-button1"
+                    @click="navigateTo({name : 'rotisserie'})">
+                    Rôtisserie
+                </v-btn>
+                <v-spacer></v-spacer>
                 <v-btn flat dark class="font-button2"
                     @click="navigateTo({name : 'photosprestations'})">
                     Photos prestations
@@ -177,6 +182,12 @@
                 </v-list-tile>
                 <v-list-tile>
                     <v-btn flat dark class="font-button2"
+                    @click="navigateTo({name : 'rotisserie'})">
+                    Rôtisserie
+                    </v-btn>
+                </v-list-tile>
+                <v-list-tile>
+                    <v-btn flat dark class="font-button2"
                     @click="navigateTo({name : 'photosprestations'})">
                     Photos prestations
                     </v-btn>
@@ -201,9 +212,9 @@ export default {
       this.$router.push(route)
     },
     onResize () {
-      if (window.innerWidth < 800) {
+      if (window.innerWidth < 920) {
         this.isMobile = true
-      } else if (window.innerWidth >= 800 && this.drawer === true) {
+      } else if (window.innerWidth >= 800) {
         this.drawer = false
         this.isMobile = false
       }
