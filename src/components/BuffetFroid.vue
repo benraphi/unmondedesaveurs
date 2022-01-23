@@ -26,7 +26,8 @@ h3{
       <p>Buffet froid</p>
     </div>
     <div style="text-align:left;padding-left:20vw">
-    <h3>Buffet à 25€ :</h3>
+    <h2>Buffet froid en livraison.</h2>
+    <h3>Buffet à 20€ :</h3>
     <p>
       3 mises en bouche<br>
       2 choix de crudités<br>
@@ -35,7 +36,7 @@ h3{
       2 choix de viandes/poissons<br>
       Buffet de desserts : 3 desserts<br>
     </p>
-    <h3>Buffet à 30€ :</h3>
+    <h3>Buffet à 25€ :</h3>
     <p>
       4 mises en bouche<br>
       3 choix de crudités<br>
@@ -44,7 +45,7 @@ h3{
       3 choix de viandes/poissons<br>
       Buffet de desserts : 3 desserts<br>
     </p>
-    <h3>Buffet à 35€ :</h3>
+    <h3>Buffet à 30€ :</h3>
     <p>
       5 mises en bouche<br>
       3 choix de crudités<br>

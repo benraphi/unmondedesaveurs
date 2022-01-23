@@ -23,7 +23,7 @@ h2{
             <p>Cocktail dînatoire</p>
         </div>
         <div style="text-align:left;padding-left:20vw">
-        <h2>30€ par personne.<br>Minimum 15 personnes. Prestation sur place incluse.</h2>
+        <h2>25€ par personne.<br>Minimum 15 personnes. En livraison.</h2>
         <h2>Mises en bouche par personne (6 choix possibles) :</h2>
         <p>
             Verrine de cappuccino d'avocat et crème de xéres. <br>

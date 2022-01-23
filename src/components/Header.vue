@@ -31,38 +31,9 @@
                     <v-btn
                             slot="activator"
                             flat dark class="font-button1">
-                            Menus
-                    </v-btn>
-                    <v-list class="red darken-4" dense>
-                        <v-list-tile style="color:white"
-                        @click="navigateTo({name: 'menuterroir'})">
-                            <v-list-tile-title>Menu du terroir</v-list-tile-title>
-                        </v-list-tile>
-                        <v-list-tile style="color:white"
-                        @click="navigateTo({name: 'menusaveurs'})">
-                            <v-list-tile-title>Menu saveurs</v-list-tile-title>
-                        </v-list-tile>
-                        <v-list-tile style="color:white"
-                        @click="navigateTo({name: 'menuenvie'})">
-                            <v-list-tile-title>Menu selon vos envies</v-list-tile-title>
-                        </v-list-tile>
-                        </v-list>
-                </v-menu>
-                <v-menu offset-y open-on-hover>
-                    <v-btn
-                            slot="activator"
-                            flat dark class="font-button1">
                             Réceptions
                     </v-btn>
                     <v-list class="red darken-4" dense>
-                        <v-list-tile style="color:white"
-                        @click="navigateTo({name: 'barbecueparty'})">
-                            <v-list-tile-title>Barbecue party</v-list-tile-title>
-                        </v-list-tile>
-                        <v-list-tile style="color:white"
-                        @click="navigateTo({name: 'planchaparty'})">
-                            <v-list-tile-title>Plancha Party</v-list-tile-title>
-                        </v-list-tile>
                         <v-list-tile style="color:white"
                         @click="navigateTo({name: 'buffetfroid'})">
                             <v-list-tile-title>Buffet froid</v-list-tile-title>
@@ -74,18 +45,12 @@
                         </v-list>
                 </v-menu>
                 <v-btn flat dark class="font-button2"
-                    @click="navigateTo({name : 'courscuisine'})">
-                    Cours de cuisine
+                    @click="navigateTo({name : 'servicetraiteur'})">
+                    Service traiteur
                 </v-btn>
-                <v-spacer></v-spacer>
-                <v-btn flat dark class="font-button1"
-                    @click="navigateTo({name : 'rotisserie'})">
-                    Rôtisserie
-                </v-btn>
-                <v-spacer></v-spacer>
                 <v-btn flat dark class="font-button2"
-                    @click="navigateTo({name : 'photosprestations'})">
-                    Photos prestations
+                    @click="navigateTo({name : 'venteaemporter'})">
+                    Vente à emporter
                 </v-btn>
                 </v-toolbar-items>
         </v-toolbar>
