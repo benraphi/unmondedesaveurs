@@ -24,8 +24,60 @@ h2{
     </div>
     <div style="text-align:left;padding-left:20vw">
     <h2>Vente à emporter.<br></h2>
-    <h3>Un Monde de Saveurs vous propose de retrouver ses produits à <a href="https://www.facebook.com/Monpanierdeschamps"> Mon panier des champs Comines et Linselles France</a> tous les samedis de 8h30 à 12h.</h3>
+    <h3>Un Monde de Saveurs vous propose de retrouver ses produits à <a href="https://www.facebook.com/Monpanierdeschamps">
+    Mon panier des champs Comines et Linselles France</a><br> tous les samedis de 8h à 12h au 747 chemin du grand Perne à Wervicq 59560 Comines. <br>
+    </h3> <p> Au grand hangar vert avec parking. A 600 mètres du rond-point de la Louche.</p>
+    <h3>Paiement par chèque ou espèces. </h3>
     <h3>Vous pouvez me suivre sur ma page <a href="https://www.facebook.com/unmondedesaveurs">facebook</a></h3>
+    <p><br>
+Voici ce que je propose cette semaine :<br><br>
+<u>Côté salé</u><br>
+-Plaquette de saumon fumé maison tranché main de 200g à 8€<br>
+-Crêpe garnie au poireaux/jambon/emmental à 2,50€.<br>
+-Barquette de 2 portions  de waterzoÏ d’émincé de poulet( sauce crèmée aux légumes) à 13€.<br>
+-Barquette individuelle de lasagne de bœuf aux légumes à 5,00€.<br>
+-Plateau apéritif de 25 pièces : 5 mini choux au pavot garnie de crème de mascarpone au saumon fumé, 5 mini choux <br>
+au graines de sésame garnies de crème de chèvre au basilic et jambon cru, 5 mini wraps au poulet au piment d’Espellette/légumes/fromage frais, <br>
+5 mini wraps au surimi/légumes/fromage frais, et 5 mini brochette de crevette au curry/gouda/pomme verte à 10€.<br>
+- Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ dont 1€ pour le <br>
+bocal qui vous seront restitué lors du retour de celui-ci.<br>
+-Sachet de 20 croutons nature à 1,50€, ou sachet de 20 croutons aux céréales à 2€.<br>
+- Conserve de terrine de sanglier, ou lièvre, ou pigeon, ou faisan, ou canard, ou lapin.<br>
+- Conserve de rillette de lièvre, ou porc, ou lapin, ou canard, et de volailles.<br>
+- Conserve de terrine ou rillette de 300g à 9€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br>
+- Conserve de  sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15€ (sauce tomatée au vin blanc et champignon), ou <br>
+carbonnade de bœuf de 450g à 17€, <br>
+ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
+
+<u>Côté sucré</u><br>
+-Galette des rois à la pomme ou frangipane de 6 personnes à 13€ ou de 8 personnes à 16€.<br>
+-Plateau de 24 mignardises : 6 mini merveilleux au chocolat noir, 6 macarons aux fruits de la passion, 6 financiers aux amandes, <br>
+6 mini choux au craquelin crème mousseline au praliné à 19€.<br>
+-Religieuse au café ou chocolat noir à 3€.<br>
+- Merveilleux individuel au chocolat noir, ou chocolat au lait, ou café/spéculoos à 3€<br>
+-Pot individuel de panacotta à la vanille, et coulis de fruits-rouges à 1,50€.<br>
+- Pot individuel de crème dessert  à la vanille, ou caramel beurre salé, ou café, ou spéculoos à 0,70€.<br>
+- Pot individuel de mousse au  chocolat noir à 0,80€.<br>
+- Gelée de pomme, ou confiture de prune, ou framboise, ou mirabelle, ou fraise, ou rhubarbe,  ou griotte à 5€ dont 1€ de consigne <br>
+pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
+-Pâte à tartiner maison au chocolat noir ou chocolat au lait/praliné à 5€ dont 1€ de consigne pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
+- Sachet de 6 gaufres fourrées à la cassonade ou à la vanille  à 3€.<br>
+- Sachet de 12 gaufres sèches au Rhum et cassonade à 3€.<br>
+- Sachet de 12 sablés au citron à 3€.<br>
+- Sachet de 10 cookies aux pépites de chocolat à 3€.<br>
+- Sachet de 10 sprits nappés au chocolat à 3€<br>
+-Sachet de 16 guimauves à la vanille et fruits-rouges à 3€.<br><br>
+Nouveauté idée cadeau panier gourmand à partir de 25€.<br>
+Exemple de composition : 1 conserve de terrine ou rillette, 1 bocal de 1 litre de velouté aux 5 légumes, 1 paquet de 6 gaufres fourrée cassonade, <br>
+1 paquet de 16 guimauves à la vanille et violette, 1 paquet de 10 sprits nappés au chocolat, et quelques bêtises de Cambrai.<br>
+N’hésitez pas à le réserver, ou à donner votre composition.<br>
+    </p>
+<h3>
+N’hésitez pas à  passer commande par mail avant le vendredi 18h, et retirer votre commande le samedi à Mon panier des champs Comines et Linselles France.<br><br>
+Vous pourrez aussi trouver à Mon panier des champs Comines et Linselles France le panier de légumes de la semaine.<br>
+Passez votre commande de légumes et fruits via le <a href="monpanierdeschamps.com"> site</a>,
+ou faites votre choix directement sur place.<br>
+    </h3>
     </div>
   </div>
 </template>

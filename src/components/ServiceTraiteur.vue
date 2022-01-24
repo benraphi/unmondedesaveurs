@@ -31,7 +31,7 @@ h2{
         Rillettes aux deux saumons, toast au sésame : 6€ par personne.<br>
         Rillettes de lapin au genièvre, toast aux noisettes : 6€ par personne.<br>
         Feuillantine de saumon fumé, crème de Xérès et ciboulette : 9€ par personne.<br>
-        Feuillantine de jambon cru et chèvre, chutney de figues : 7€ par personne.
+        Feuillantine de jambon cru et chèvre, chutney de figues : 7€ par personne.<br>
         Verrine de tartare d’avocats aux deux crevettes : 7€ par personne.<br>
         Verrine d’œufs pochés aux deux asperges, sauce aux perles de saumon : 7€ par personne.<br>
         Verrine de tartare de tomates et féta, fleur de jambon cru, copeaux de comté : 7€ par personne.<br>

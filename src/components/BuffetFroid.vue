@@ -26,7 +26,7 @@ h3{
       <p>Buffet froid</p>
     </div>
     <div style="text-align:left;padding-left:20vw">
-    <h2>Buffet froid en livraison.</h2>
+    <h2>Buffet froid en livraison. 15 personnes minimum.</h2>
     <h3>Buffet à 20€ :</h3>
     <p>
       3 mises en bouche<br>
