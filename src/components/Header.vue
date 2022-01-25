@@ -46,7 +46,7 @@
                 </v-menu>
                 <v-btn flat dark class="font-button2"
                     @click="navigateTo({name : 'servicetraiteur'})">
-                    Service traiteur
+                    Plats en livraison
                 </v-btn>
                 <v-btn flat dark class="font-button2"
                     @click="navigateTo({name : 'venteaemporter'})">

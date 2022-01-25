@@ -20,10 +20,10 @@ h2{
 <template>
   <div>
     <div class="imgfond">
-        <p>Service traiteur</p>
+        <p>Plats en livraison</p>
     </div>
     <div style="text-align:left;padding-left:20vw">
-    <h2>Service traiteur en livraison.<br></h2>
+    <h2>Plats en livraison.<br></h2>
     <h2><br>Propositions d'entrées froides :</h2>
     <p>
         Terrine de lapin aux pruneaux, confiture d’échalotes : 6€ par personne.<br>
@@ -90,6 +90,26 @@ h2{
         Chacun de ces plats sera accompagné de trois légumes différents : galette de
         pommes de terre, flan de légumes et brochette de légumes (sauf pour le waterzoï
         qui sera accompagné de riz Pilaf).
+    </p>
+    <h2>Proposition de desserts :</h2>
+    <p>
+      2,50€ la part.<br><br>
+      Croustillant aux trois chocolats.<br>
+      Framboisier.<br>
+      Fraisier (selon la saison).<br>
+      Fraisier/framboisier (selon la saison).<br>
+      Moelleux aux deux chocolats (biscuits moelleux chocolat et noix, mousse chocolat blanc et chocolat noir).<br>
+      Bavarois fruits rouges ou framboise/passion ou poire/caramel.<br>
+      Charlotte poire/chocolat ou fruits rouges<br>
+      Tutti frutti (génoise, crème mousseline et fruits)<br>
+      Tarte pomme/cannelle ou tarte poire/frangipane ou tarte citron<br>
+      Progrès café ou chocolat ou praliné<br>
+      Gâteau glacé. Parfum : vanille/ framboise ou vanille/fraise ou vanille/chicorée ou nougat ou passion/framboise.<br>
+      Assortiment de choux café, chocolat et vanille.<br>
+      Mousseux irlandais : biscuit aux noix, mousse café whisky, mousse chocolat blanc.<br>
+      Pyramide de profiteroles, glace spéculoos, sauce chocolat blanc.<br>
+      Pyramide de profiteroles, glace vanille, sauce chocolat noir.<br>
+      Accompagné de crème anglaise ou de coulis de fruits rouges.<br>
     </p>
     </div>
   </div>
