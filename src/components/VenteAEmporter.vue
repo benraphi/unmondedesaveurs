@@ -32,25 +32,26 @@ h2{
     <p><br>
 Voici ce que je propose cette semaine :<br><br>
 <u>Côté salé</u><br>
-Coquille de la mer (pétoncles, crevettes, moules, champignons) à 5€.<br>
-Tarte aux Monts des Cats et poireaux à 3,50€ ou 4 personnes à 12€.<br>
-Barquette de 2 portions de langues de bœuf sauce piquante à 11€.<br>
-Plateau apéritif de 25 pièces : 5 mini faluches de rillette aux 2 saumons, 5 mini faluches jambon/mimolette, 5 toasts à la crème de foie au cognac, <br>
-5 toasts au beurre de Roquefort et noix, et 5 mini brochette de poulet au paprika/gouda/pomme verte à 10€.<br>
+Crêpe garnie jambon/Comté/champignons à 2,50€.<br>
+Croquettes aux crevettes grises le paquet de 3 pièces à 5€.<br>
+Barquette de cassoulet maison(saucisses Toulouse, lard fumé, et saucisson à l’ail) à 7€.<br>
+Plateau apéritif de 25 pièces : 5 mini club sandwich saumon fumé/tartare/légumes, 5 mini club sandwich nordique salami/tartare/légumes, <br>
+5 blinis maison au crevette et pousse de poireaux, 5 blinis maison au cornet de roulade et crème aux fines-herbes, et 5 mini brochette de jambon cru/tomate confite/billes de mozzarella à 10€.<br>
 Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ dont 1€ pour le <br>
 bocal qui vous seront restitué lors du retour de celui-ci.<br>
 Sachet de 20 croutons nature à 1,50€, ou sachet de 20 croutons aux céréales à 2€.<br>
 Conserve de terrine de sanglier, ou lièvre, ou pigeon, ou faisan, ou canard, ou lapin.<br>
 Conserve de rillette de lièvre, ou porc, ou lapin, ou canard, et de volailles.<br>
 Conserve de terrine ou rillette de 300g à 9€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br>
-Conserve de  sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15€ (sauce tomatée au vin blanc et champignon), ou <br>
+Conserve de sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15€ (sauce tomatée au vin blanc et champignon), ou <br>
 carbonnade de bœuf de 450g à 17€, <br>
 ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
 
 <u>Côté sucré</u><br>
-Panaché de macaron à la vanille, au chocolat noir, à la pistache, et aux fruits de la  passion la boite de 12 pièces à 10€.<br>
-Tom-pouce à la crème vanille à 3€.<br>
-Merveilleux individuel au chocolat noir, ou chocolat au lait, ou café/spéculoos à 3€<br>
+Plateau de 24 pièces de mignardises : 6 mini merveilleux café/spéculoos, 3 macarons au caramel au beurre salé et 3 macarons au fruit de la passion, <br>
+6 mini choux au chocolat, et 6 financiers aux noix à 19€.<br>
+Crumble de pommes au spéculoos à 3€.<br>
+Merveilleux individuel au chocolat noir, ou chocolat lait, ou café/spéculoos à 3€.<br>
 Pot individuel de panacotta à la vanille, et coulis de fruits-rouges à 1,50€.<br>
 Pot individuel de crème dessert  à la vanille, ou caramel beurre salé, ou café, ou spéculoos à 0,70€.<br>
 Pot individuel de mousse au  chocolat noir à 0,80€.<br>

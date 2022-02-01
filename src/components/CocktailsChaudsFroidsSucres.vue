@@ -52,7 +52,7 @@ h2{
             Mini Wraps  : fromage frais/jambon/légumes, fromage frais/saumon fumé/légumes, fromage frais/poulet/légumes : <b>22€ les 30 pièces</b>.<br><br>
             Mini Club sandwich Nordique : roquette/Boursin/roulade jambon/carotte, roquette/Boursin/saumon fumé/carotte, roquette/Boursin/salami/carotte : <b>22€ les 30 pièces</b>.<br><br>
         </p>
-        <h2><br><u>Cocktails sucrés:</u> 35€ les 50 pièces</h2>
+        <h2><br><u>Cocktails sucrés:</u> 35€ les 50 pièces. 4 à 5 choix possibles.</h2>
         <p>
             Panaché de choux (vanille, chocolat, café).<br>
             Glands au kirsch et glands au rhum.<br>
