@@ -11,6 +11,7 @@ const routerOptions = [
   { path: '/contact', component: 'Contact', name: 'contact' },
   { path: '/servicetraiteur', component: 'ServiceTraiteur', name: 'servicetraiteur' },
   { path: '/venteaemporter', component: 'VenteAEmporter', name: 'venteaemporter' },
+  { path: '/photosvente', component: 'PhotosVente', name: 'photosvente' },
   { path: '/cocktails/cocktailschaudsfroidssucres', component: 'CocktailsChaudsFroidsSucres', name: 'cocktailschaudsfroidssucres' },
   { path: '*', component: 'NotFound' }
 ]

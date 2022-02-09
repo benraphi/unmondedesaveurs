@@ -52,6 +52,10 @@
                     @click="navigateTo({name : 'venteaemporter'})">
                     Vente à emporter
                 </v-btn>
+                <v-btn flat dark class="font-button2"
+                    @click="navigateTo({name : 'photosvente'})">
+                    Photos
+                </v-btn>
                 </v-toolbar-items>
         </v-toolbar>
 
@@ -120,6 +124,13 @@
                     Vente à emporter
                     </v-btn>
                 </v-list-tile>
+                <v-list-tile>
+                    <v-btn flat dark class="font-button2"
+                    @click="navigateTo({name : 'photosvente'})">
+                    Photos
+                    </v-btn>
+                </v-list-tile>
+
             </v-list>
         </v-navigation-drawer>
     </div>

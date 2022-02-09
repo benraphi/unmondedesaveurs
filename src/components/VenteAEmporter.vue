@@ -32,13 +32,14 @@ h2{
     <p><br>
 Voici ce que je propose cette semaine :<br><br>
 <u>Côté salé</u><br>
-Crêpe garnie jambon/Comté/champignons à 2,50€.<br>
-Croquettes aux crevettes grises le paquet de 3 pièces à 5€.<br>
-Barquette de cassoulet maison(saucisses Toulouse, lard fumé, et saucisson à l’ail) à 7€.<br>
-Plateau apéritif de 25 pièces : 5 mini club sandwich saumon fumé/tartare/légumes, 5 mini club sandwich nordique salami/tartare/légumes, <br>
-5 blinis maison au crevette et pousse de poireaux, 5 blinis maison au cornet de roulade et crème aux fines-herbes, et 5 mini brochette de jambon cru/tomate confite/billes de mozzarella à 10€.<br>
-Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ dont 1€ pour le <br>
-bocal qui vous seront restitué lors du retour de celui-ci.<br>
+Vol au vent à la volaille à 3,50€<br>
+Tarte aux 2 saumons et poireaux individuel à 3,50€ ou 4 personnes à 12€<br>
+Hachis Parmentier au bœuf et champignons barquette individuel à 6,50€<br>
+Plateau apéritif de 25 pièces : 5 mini navette garnie au thon sauce cocktail/tomate cerise, 5 mini navette garnie au jambon cru/roquette/Comté, <br>
+5 mini choux au graine de sésame garnie de fromage d’enfance au paprika et poulet, 5 mini choux aux noix garnie de crème de Maroilles et <br>
+5 mini brochette crevettes curry/gouda/pomme verte 10€<br>
+Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ <br>
+dont 1€ pour le bocal qui vous seront restitué lors du retour de celui-ci<br>
 Sachet de 20 croutons nature à 1,50€, ou sachet de 20 croutons aux céréales à 2€.<br>
 Conserve de terrine de sanglier, ou lièvre, ou pigeon, ou faisan, ou canard, ou lapin.<br>
 Conserve de rillette de lièvre, ou porc, ou lapin, ou canard, et de volailles.<br>
@@ -48,9 +49,10 @@ carbonnade de bœuf de 450g à 17€, <br>
 ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
 
 <u>Côté sucré</u><br>
-Plateau de 24 pièces de mignardises : 6 mini merveilleux café/spéculoos, 3 macarons au caramel au beurre salé et 3 macarons au fruit de la passion, <br>
-6 mini choux au chocolat, et 6 financiers aux noix à 19€.<br>
-Crumble de pommes au spéculoos à 3€.<br>
+Plateau de 24 pièces de mignardises : 6 mini merveilleux chocolat, 3 macarons au citron et <br>
+3 macarons au fruit de la passion, 6 mini choux au craquelin et crème chantilly à la vanille, <br>
+et 6 mini progrés au café à 19€.
+Pot individuel de tiramisu à 3€<br>
 Merveilleux individuel au chocolat noir, ou chocolat lait, ou café/spéculoos à 3€.<br>
 Pot individuel de panacotta à la vanille, et coulis de fruits-rouges à 1,50€.<br>
 Pot individuel de crème dessert  à la vanille, ou caramel beurre salé, ou café, ou spéculoos à 0,70€.<br>
@@ -58,7 +60,7 @@ Pot individuel de mousse au  chocolat noir à 0,80€.<br>
 Gelée de pomme, ou confiture de prune, ou framboise, ou mirabelle, ou fraise, ou rhubarbe,  ou griotte à 5€ dont 1€ de consigne <br>
 pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
 Pâte à tartiner maison au chocolat noir ou chocolat au lait/praliné à 5€ dont 1€ de consigne pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
-Sachet de 6 gaufres fourrées à la cassonade ou à la vanille  à 3€.<br>
+Sachet de 6 gaufres fourrées à la cassonade ou à la vanille à 3€.<br>
 Sachet de 12 gaufres sèches au Rhum et cassonade à 3€.<br>
 Sachet de 12 sablés au citron à 3€.<br>
 Sachet de 10 cookies aux pépites de chocolat à 3€.<br>
