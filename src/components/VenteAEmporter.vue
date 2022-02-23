@@ -32,12 +32,11 @@ h2{
     <p><br>
 Voici ce que je propose cette semaine :<br><br>
 <u>Côté salé</u><br>
-Vol au vent à la volaille à 3,50€<br>
-Tarte aux 2 saumons et poireaux individuel à 3,50€ ou 4 personnes à 12€<br>
-Hachis Parmentier au bœuf et champignons barquette individuel à 6,50€<br>
-Plateau apéritif de 25 pièces : 5 mini navette garnie au thon sauce cocktail/tomate cerise, 5 mini navette garnie au jambon cru/roquette/Comté, <br>
-5 mini choux au graine de sésame garnie de fromage d’enfance au paprika et poulet, 5 mini choux aux noix garnie de crème de Maroilles et <br>
-5 mini brochette crevettes curry/gouda/pomme verte 10€<br>
+Crêpe garnie jambon/poireaux/emmental à 2,50€.<br>
+Flamiche aux Maroilles individuel à 3,50€ ou 4 personnes à 12€.<br>
+Goulash de porc(sauce tomatée au paprika doux) barquette individuel à 6,00€.<br>
+Plateau apéritif de 25 pièces : 5 mini toasts au chutney de figue et magret de canard fumé, 5 mini toasts à la crème de foie <br>
+au Cognac et radis, 5 tranches de cake jambon/mimolette, 5 tranches de cake Féta/olive et 5 mini brochette tomate confite/jambon cru/billes de mozzarella à 10€.<br>
 Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ <br>
 dont 1€ pour le bocal qui vous seront restitué lors du retour de celui-ci<br>
 Sachet de 20 croutons nature à 1,50€, ou sachet de 20 croutons aux céréales à 2€.<br>
@@ -45,14 +44,12 @@ Conserve de terrine de sanglier, ou lièvre, ou pigeon, ou faisan, ou canard, ou
 Conserve de rillette de lièvre, ou porc, ou lapin, ou canard, et de volailles.<br>
 Conserve de terrine ou rillette de 300g à 9€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br>
 Conserve de sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15€ (sauce tomatée au vin blanc et champignon), ou <br>
-carbonnade de bœuf de 450g à 17€, <br>
-ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
+carbonnade de bœuf de 450g à 17€, ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
 
 <u>Côté sucré</u><br>
-Plateau de 24 pièces de mignardises : 6 mini merveilleux chocolat, 3 macarons au citron et <br>
-3 macarons au fruit de la passion, 6 mini choux au craquelin et crème chantilly à la vanille, <br>
-et 6 mini progrés au café à 19€.
-Pot individuel de tiramisu à 3€<br>
+Plateau de 24 pièces de mignardises : 6 mini merveilleux café/spéculoos, 3 macarons au ciaramel beurre salé, 3 macarons au fruit de la passion, <br>
+6 mini choux au chocolat, et 6 mini financier au amandes à 19€.<br>
+Pot individuel de tiramisu à 3€.<br>
 Merveilleux individuel au chocolat noir, ou chocolat lait, ou café/spéculoos à 3€.<br>
 Pot individuel de panacotta à la vanille, et coulis de fruits-rouges à 1,50€.<br>
 Pot individuel de crème dessert  à la vanille, ou caramel beurre salé, ou café, ou spéculoos à 0,70€.<br>
