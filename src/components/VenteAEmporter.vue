@@ -32,11 +32,11 @@ h2{
     <p><br>
 Voici ce que je propose cette semaine :<br><br>
 <u>Côté salé</u><br>
-Crêpe garnie jambon/poireaux/emmental à 2,50€.<br>
-Flamiche aux Maroilles individuel à 3,50€ ou 4 personnes à 12€.<br>
-Goulash de porc(sauce tomatée au paprika doux) barquette individuel à 6,00€.<br>
-Plateau apéritif de 25 pièces : 5 mini toasts au chutney de figue et magret de canard fumé, 5 mini toasts à la crème de foie <br>
-au Cognac et radis, 5 tranches de cake jambon/mimolette, 5 tranches de cake Féta/olive et 5 mini brochette tomate confite/jambon cru/billes de mozzarella à 10€.<br>
+Vol au vent de volaille à 3,50€.<br>
+Flamiche aux poireaux et jambon individuelle à 3,50€ ou 4 personnes à 12€.<br>
+Barquette individuelle de bœuf bourguignon  à 6,50€.<br>
+Plateau apéritif de 25 pièces : 5 toasts de mousse de saumon fumé à l’aneth, 5 toasts beurre de Roquefort et noix, 5 tranches de cakes crevettes et surimi,<br>
+5 tranches de cake olive et jambon, et 5 mini brochette tomate confite/jambon cru/billes de mozzarella à 10€.
 Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ <br>
 dont 1€ pour le bocal qui vous seront restitué lors du retour de celui-ci<br>
 Sachet de 20 croutons nature à 1,50€, ou sachet de 20 croutons aux céréales à 2€.<br>
@@ -47,10 +47,9 @@ Conserve de sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15�
 carbonnade de bœuf de 450g à 17€, ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
 
 <u>Côté sucré</u><br>
-Plateau de 24 pièces de mignardises : 6 mini merveilleux café/spéculoos, 3 macarons au ciaramel beurre salé, 3 macarons au fruit de la passion, <br>
-6 mini choux au chocolat, et 6 mini financier au amandes à 19€.<br>
-Pot individuel de tiramisu à 3€.<br>
-Merveilleux individuel au chocolat noir, ou chocolat lait, ou café/spéculoos à 3€.<br>
+Plateau de 24 pièces de mignardises : 3 mini merveilleux chocolat noir, 3 mini merveilleux café/spéculoos, 6 macarons à la pistache, 6 mini choux au craquelin<br>
+à la chantilly à la vanille et 6 financier aux amandes à 19€.<br>
+Religieuse au chocolat ou au café à 3€.<br>
 Pot individuel de panacotta à la vanille, et coulis de fruits-rouges à 1,50€.<br>
 Pot individuel de crème dessert  à la vanille, ou caramel beurre salé, ou café, ou spéculoos à 0,70€.<br>
 Pot individuel de mousse au  chocolat noir à 0,80€.<br>
