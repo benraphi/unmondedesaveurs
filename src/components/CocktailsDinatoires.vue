@@ -23,7 +23,7 @@ h2{
             <p>Cocktail dînatoire</p>
         </div>
         <div style="text-align:left;padding-left:20vw">
-        <h2>25€ par personne.<br>Minimum 15 personnes. En livraison.</h2>
+        <h2>27€ par personne.<br>Minimum 15 personnes. En livraison.</h2>
         <h2>Mises en bouche par personne (6 choix possibles) :</h2>
         <p>
             Verrine de cappuccino d'avocat et crème de xéres. <br>
@@ -67,10 +67,6 @@ h2{
             Verrine de panacotta à la noix de coco et citron vert, coulis de mangue.<br>
             Verrine de carambars et compotée de pommes.<br>
             <br>
-        </p>
-        <p class="fin">
-            Ce cocktail sera réalisé dans votre cuisine, soigneusement nettoyée et rangée par mes soins après le service.<br>
-            Un forfait de déplacement sera demandé pour une distance supérieure à 30 kms de mon domicile.
         </p>
         </div>
     </div>

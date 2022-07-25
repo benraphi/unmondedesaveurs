@@ -27,7 +27,7 @@ h3{
     </div>
     <div style="text-align:left;padding-left:20vw">
     <h2>Buffet froid en livraison. 15 personnes minimum.</h2>
-    <h3>Buffet à 20€ :</h3>
+    <h3>Buffet à 22€ :</h3>
     <p>
       3 mises en bouche<br>
       2 choix de crudités<br>
@@ -36,7 +36,7 @@ h3{
       2 choix de viandes/poissons<br>
       Buffet de desserts : 3 desserts<br>
     </p>
-    <h3>Buffet à 25€ :</h3>
+    <h3>Buffet à 27€ :</h3>
     <p>
       4 mises en bouche<br>
       3 choix de crudités<br>
@@ -45,7 +45,7 @@ h3{
       3 choix de viandes/poissons<br>
       Buffet de desserts : 3 desserts<br>
     </p>
-    <h3>Buffet à 30€ :</h3>
+    <h3>Buffet à 32€ :</h3>
     <p>
       5 mises en bouche<br>
       3 choix de crudités<br>
@@ -81,7 +81,7 @@ h3{
     </p>
     <h2>Salades composées en saladier :</h2>
     <p>
-      Salade de pennes au gambas et pétoncles et petits légumes croquants, vinaigrette au balsamique.<br>
+      Salade de pennes au gambas et pétoncles et petits légumes croquants, vinaigrette au basilic.<br>
       Céleri rémoulade au curry, crevettes et dés de poulet.<br>
       Salade de légumes verts et magret fumé, vinaigrette à la framboise.<br>
       Salade de Coleslaw à l'Emmental.<br>

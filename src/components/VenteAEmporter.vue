@@ -32,40 +32,17 @@ h2{
     <p><br>
 Voici ce que je propose cette semaine :<br><br>
 <u>Côté salé</u><br>
-Crêpe jambon/champignons/Comté à 2,50€<br>
-Tarte aux 2 saumons et poireaux à 3,50€.<br>
-Barquette individuelle d’émincé de poulet sauce aux 2 poivres à 6,00€.<br>
-Plateau apéritif de 25 pièces : 5 mini faluche garnie de jambon et mimolette , 5 mini faluche garnie au thon sauce cocktail et œuf dur, 5 blinis maison crevette et pousses de poireaux, <br>
-5 blinis maison au saumon fumé et crème aneth au citron, et 5 mini brochette tomate confite/bille mozzarella/jambon cru à 10€.<br>
-Bocal de 1 litre de crevettes grise à 7€ ou  velouté aux 5 légumes, ou soupe à l’oignon, ou velouté de champignon à 4,50€ <br>
-dont 1€ pour le bocal qui vous seront restitué lors du retour de celui-ci<br>
-Sachet de 20 croutons nature à 1,50€, ou sachet de 20 croutons aux céréales à 2€.<br>
-Conserve de terrine de sanglier, ou lièvre, ou pigeon, ou faisan, ou canard, ou lapin.<br>
-Conserve de rillette de lièvre, ou porc, ou lapin, ou canard, et de volailles.<br>
-Conserve de terrine ou rillette de 300g à 9€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br>
-Conserve de sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15€ (sauce tomatée au vin blanc et champignon), ou <br>
-carbonnade de bœuf de 450g à 17€, ou potjewleesch de 450g à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
+Conserve de terrine de faisan, de canard, de sanglier, de pigeon, de lièvre et de lapin.<br>
+Conserve de rillette de porc, lapin, de lièvre, et volailles.<br>
+Conserve de terrine ou rillette de 300g à 9€  dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br>
+Conserve de  sauce bolognaise de 400g à 7€, ou marengo de porc de 450g à 15€ , ou  carbonnade de bœuf de 450g à 17€, ou potjewleesch de 450g <br>
+à 13€ dont 3€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br>
+Bocal de soupe à l’oignon, ou velouté aux 5 légumes, ou velouté aux champignons à 4,50€ , ou soupe de crevettes grises à 7€, ou velouté d’asperges à 8,50€<br>
+dont 1€ de consigne pour le bocal qui vous seront restitué lors du retour de celui-ci.<br><br>
 
 <u>Côté sucré</u><br>
-Plateau de 24 mignardises : 6 mini choux au chocolat, 6 mini progrès au café, 3  macarons au caramel beurre salé,  3 macarons à la fraise, <br>
-et 6 mini merveilleux au chocolat blanc à 19€.<br>
-Pot individuelle de tiramisu à 3€.<br>
-Merveilleux individuel au chocolat noir, ou chocolat au lait ou café/spéculoos à 3€.<br>
-Pot individuel de crème dessert  à la vanille, ou caramel beurre salé, ou café, ou spéculoos à 0,70€.<br>
-Pot individuel de mousse au chocolat noir à 0,80€.<br>
-Gelée de pomme, ou confiture de prune, ou framboise, ou mirabelle, ou fraise, ou rhubarbe,  ou griotte à 5€ dont 1€ de consigne <br>
-pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
-Pâte à tartiner maison au chocolat noir ou chocolat au lait/praliné à 5€ dont 1€ de consigne pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
-Sachet de 6 gaufres fourrées à la cassonade ou à la vanille à 3€.<br>
-Sachet de 12 gaufres sèches au Rhum et cassonade à 3€.<br>
-Sachet de 12 sablés au citron à 3€.<br>
-Sachet de 10 cookies aux pépites de chocolat à 3€.<br>
-Sachet de 10 sprits nappés au chocolat à 3€<br>
-Sachet de 16 guimauves à la vanille et fruits-rouges à 3€.<br><br>
-Nouveauté idée cadeau panier gourmand à partir de 25€.<br>
-Exemple de composition : 1 conserve de terrine ou rillette, 1 bocal de 1 litre de velouté aux 5 légumes, 1 paquet de 6 gaufres fourrée cassonade, <br>
-1 paquet de 16 guimauves à la vanille et violette, 1 paquet de 10 sprits nappés au chocolat, et quelques bêtises de Cambrai.<br>
-N’hésitez pas à le réserver, ou à donner votre composition.<br>
+Confiture de prunes, mirabelle, fraise, rhubarbe, griotte, et gelée de pomme à 5€ dont 1€ de consigne pour le bocal qui vous sera restitué lors du retour de celui-ci.<br>
+Sachet de 12 sablés au citron, et sachet de 12 gaufres sèches au rhum et cassonade à 3€.<br>
     </p>
 <h3>
 N’hésitez pas à  passer commande par mail avant le vendredi 18h, et retirer votre commande le samedi à Mon panier des champs Comines et Linselles France.<br><br>

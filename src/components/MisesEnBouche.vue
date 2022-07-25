@@ -23,7 +23,7 @@ h2{
       <p>Mises en bouche</p>
     </div>
     <div style="text-align:left;padding-left:20vw">
-    <h2>8€ les 6 pièces.</h2>
+    <h2>9€ les 6 pièces.</h2>
     <p>Pour un apéritif original, les mises en bouche sont livrées sans supplément. <br></p>
     <h2>Verrines :</h2>
     <p>

@@ -93,7 +93,7 @@ h2{
     </p>
     <h2>Proposition de desserts :</h2>
     <p>
-      2,50€ la part.<br><br>
+      3€ la part.<br><br>
       Croustillant aux trois chocolats.<br>
       Framboisier.<br>
       Fraisier (selon la saison).<br>
