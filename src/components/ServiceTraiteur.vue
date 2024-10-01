@@ -41,7 +41,7 @@ h2 {
         Pavé de saumon Bellevue et crudités : tomates garnies de macédoine maison, fagot d’asperges
         : 12€ par personne.<br>
         Foie gras de canard, confiture d’oignons et raisins ou chutney de figues, briocheaux raisins
-        : 4€ par personne.<br>
+        : 14€ par personne.<br>
       </p>
       <h2><br>Propositions d'entrées chaudes :<br></h2>
       <p>
